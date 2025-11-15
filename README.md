@@ -8,7 +8,7 @@ For those that need sparsity pattern detection for jax jacobians/hessians I also
 
 > NOTE: This is part of an ongoing project to create a batch solved IPOPT clone in JAX that we will publish in the coming days/weeks (I am open sourcing this package ahead of time due to significant interest in this solver being integrated into JAX, to allow others to get started on their own research projects with it!).
 
-> Do not hesitate to reach out if you need modifications to this for your own research work :).
+> Do not hesitate to reach out if you need modifications to this for your own research work - I would love to collaborate :).
 
 ## cuDSS
 
