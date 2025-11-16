@@ -1,7 +1,7 @@
 # Spineax (SParse lINear Solvers in JAX)
 
 This repo integrates existing sparse linear solvers into JAX. I currently 
-feature a single GPU-based linear solver (with plans to implement more, including CPU-based ones in the future):
+feature a single GPU-based linear solver (with plans to implement more - starting with amgx):
 - cuDSS
 
 For those that need sparsity pattern detection for jax jacobians/hessians I also offer this [(in progress) package](https://github.com/johnviljoen/jax2sympy).
