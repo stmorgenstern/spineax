@@ -171,3 +171,7 @@ cython_debug/
 #test files
 examples/cudss/frozen_newton_sparse.py
 examples/cudss/frozen_newton.py
+
+#txt save files
+src/spineax/cudss/oldkindaworkingsolver.txt
+src/spineax/cudss/oldkindaworkingcpp.txt
