@@ -50,7 +50,7 @@ Requirements:
 ```bash
 conda create -n spineax pip
 conda activate spineax
-pip install git+ssh://git@github.com/johnviljoen/spineax.git
+pip install git+ssh://git@github.com/stmorgenstern/spineax.git
 ```
 
 # Citation
